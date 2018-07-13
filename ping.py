@@ -1,6 +1,6 @@
 ‘’’
   @title: PyGameOn
-  @author: RozNath
+  @author: RozNath, Kitaarspeler
   @dev: Top down Pokemon style game
 ‘’’
 
