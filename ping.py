@@ -1,3 +1,9 @@
+‘’’
+  @title: PyGameOn
+  @author: RozNath
+  @dev: Top down Pokemon style game
+‘’’
+
 import pygame
 
 
